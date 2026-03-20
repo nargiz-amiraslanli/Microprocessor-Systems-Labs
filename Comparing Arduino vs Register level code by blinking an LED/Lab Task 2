@@ -1,0 +1,11 @@
+Task 2: Create a serial interface for subtracting two numbers using
+CPU registers only, store the result in a register, and output all
+register values.
+You must then examine the SREG status register and clearly
+identify the state of the Zero (Z) and Carry (C) flags after the
+subtraction.Evidence the SREG behavior and explain why these flags are set
+or cleared for this operation, with particular emphasis on how the
+AVR represents underflow in unsigned subtraction and how the
+Carry flag behaves during subtraction.
+
+By Professor DR ALEXZ FARRALL
