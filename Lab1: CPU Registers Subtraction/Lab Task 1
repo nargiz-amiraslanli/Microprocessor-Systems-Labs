@@ -1,4 +1,6 @@
-Task1: Via the ArduinoIDE use digitalwrite() and blink the
+Task1:
+
+Via the ArduinoIDE use digitalwrite() and blink the
 onboard LED at 1 Hz. Then use registers to blink the
 onboard LED at 1 Hz.
 Estimate and compare the execution time and memory
