@@ -1,0 +1,9 @@
+Task1: Via the ArduinoIDE use digitalwrite() and blink the
+onboard LED at 1 Hz. Then use registers to blink the
+onboard LED at 1 Hz.
+Estimate and compare the execution time and memory
+allocation. Using both methods, blink the onboard LED as
+fast as possible; evidence and explain any differences.
+Recommended to use an oscilloscope
+
+By Professor DR ALEXZ FARRALL
