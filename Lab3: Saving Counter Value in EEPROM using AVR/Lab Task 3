@@ -1,0 +1,12 @@
+Task 3: Using AVR language, implement a counter that increments
+a single register by 1 every 1 second. Identify the number of CPU
+cycles and instructions that that place within this window for your
+code. Implement a serial command that allows you to store or
+reset the current counter value in the EEPROM. Unplug Arduino.
+On power-up, the counter should continue from the last stored
+value rather than starting over (unless reset).
+Explain any anomalies or limitations that may occur. Indicate the
+address location of the register you are using to increment a
+value.
+
+By Professor DR ALEXZ FARRALL
